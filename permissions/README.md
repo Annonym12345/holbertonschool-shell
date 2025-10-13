@@ -1,4 +1,4 @@
 # Git Intro Project
 
 j'ai utiliser #!/bin/bash
-apres whoami
+apres chown betty hello
