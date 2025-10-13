@@ -1,4 +1,4 @@
 # Git Intro Project
 
 j'ai #!/bin/bash
-j'ai utiliser ln -s /bin/ls__ls__
+j'ai utiliser cp -u *.html .._
