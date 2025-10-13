@@ -1,4 +1,3 @@
 # Git Intro Project
-
-j'ai Utiliser #!/bin/bash
-jai fait ls -an
+mit #/bin/bash
+faire mkdir pour cree le dossier /tmp/holberton
