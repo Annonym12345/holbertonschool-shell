@@ -1,4 +1,4 @@
 # Git Intro Project
 
 j'ai utiliser #!/bin/bash
-apres la commande mkdir -m 751 my_dir
+apres la commande chgrp holberton hello
