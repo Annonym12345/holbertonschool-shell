@@ -1,4 +1,4 @@
 # Git Intro Project
 
 j'ai utiliser #!/bin/bash
-apres la commande touch hello
+apres la commande chmod u+x hello
