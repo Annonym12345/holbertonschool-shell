@@ -1,4 +1,4 @@
 # Git Intro Project
 
 j'ai utiliser #!/bin/bash
-apres la commande chmod 007 hello
+apres la commande chmod 753 hello
