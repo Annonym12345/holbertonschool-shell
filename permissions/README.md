@@ -1,4 +1,4 @@
 # Git Intro Project
 
 j'ai utiliser #!/bin/bash
-apres touch hello
+apres chown betty hello
