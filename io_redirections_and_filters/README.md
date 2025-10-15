@@ -1,4 +1,4 @@
 # Git Intro Project
 
 j'ai utiliser #!/bin/bash
-head /etc/passwd
+tail -n 10 /etc/passwd
