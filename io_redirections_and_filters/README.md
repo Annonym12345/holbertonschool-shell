@@ -1,4 +1,4 @@
 # Git Intro Project
 
 j'ai utiliser #!/bin/bash
-echo "Holberton School" > '\*\\'\''"Holberton School"\'\''\\*$\?\*\*\*\*\*:)'
+echo "Holberton School" > \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
