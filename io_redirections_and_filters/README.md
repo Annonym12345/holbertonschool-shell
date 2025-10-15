@@ -1,4 +1,4 @@
 # Git Intro Project
 
 j'ai utiliser #!/bin/bash
-cat /etc/passwd
+tail /etc/passwd/ /etc/hosts/
