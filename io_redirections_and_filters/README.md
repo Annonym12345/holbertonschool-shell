@@ -1,4 +1,4 @@
 # Git Intro Project
 
 j'ai utiliser #!/bin/bash
-echo '"(Ão)'\'
+cat /etc/passwd /etc/hosts
