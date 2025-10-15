@@ -1,4 +1,4 @@
 # Git Intro Project
 
 j'ai utiliser #!/bin/bash
-find . -name "*.js" -type f -delete
+find . -mindepth 1 -type d | wc -l
