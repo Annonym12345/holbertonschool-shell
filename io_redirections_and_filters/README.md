@@ -1,4 +1,4 @@
 # Git Intro Project
 
 j'ai utiliser #!/bin/bash
-grep root /etc/passwd 
+grep bin /etc/passwd | wc -l
