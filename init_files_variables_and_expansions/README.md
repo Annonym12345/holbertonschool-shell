@@ -1,4 +1,4 @@
 # Git Intro Project
 
 j'ai utiliser #!/bin/bash
-et j'ai utiliser la commande echo $PATH | tr -s ';' '\n' | wc -l
+et j'ai utiliser la commande set
